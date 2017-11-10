@@ -1,0 +1,5 @@
+# bin/bash
+[Thumbnailer Entry]
+TryExec=/usr/lib/psdthumbnailer
+Exec=/usr/lib/psdthumbnailer %i %o %s
+MimeType=image/vnd.adobe.photoshop; image/x-photoshop; image/x-psd;

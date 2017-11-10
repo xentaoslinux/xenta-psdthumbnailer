@@ -1,0 +1,15 @@
+Source: xenta-psdthumbnailer
+Section: gnome
+Priority: optional
+Maintainer: Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.6
+Homepage: http://github.com/xenta-psdthumbnailer
+#Vcs-Git: git://anonscm.debian.org/collab-maint/xenta-psdthumbnailer.git
+#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/xenta-psdthumbnailer.git
+
+Package: xenta-psdthumbnailer
+Architecture: all
+Depends: imagemagick
+Description: Psd File Thumbnailer
+ Psd File Thumbnailer for Nemo File Manager

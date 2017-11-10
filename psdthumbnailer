@@ -1,0 +1,9 @@
+# bin/bash
+
+# Arguments / Parameters %i %o %s
+f_in=$1
+f_out=$2
+f_size=$3
+
+# Execute Convert PSD to PNG through ImageMagick
+exec convert "psd:$f_in[0]" -scale "$f_sizex$f_size" "png:$f_out"
