@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: xenta-psdthumbnailer
-Upstream-Contact: Dindin Hernawan <root@dev.xentaos.org>
-Source: http://github.com/xenta-psdthumbnailer
+Upstream-Contact: Dindin Hernawan <dindin_hernawan@yahoo.com>
+Source: http://github.com/xentaoslinux/xenta-psdthumbnailer
 
 Files: photoshop.thumbnailer
 Copyright: 2017 Dindin Hernawan
