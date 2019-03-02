@@ -7,6 +7,11 @@ debian/files
 debian/debhelper-build-stamp
 
 # Directory Paket
+<<<<<<< HEAD
 debian/paketku
 debian/paketku-dep
 
+=======
+debian/xenta-psdthumbnailer
+#gitpush
+>>>>>>> 937a9c9bdad5c26f86d63f24539dfcbd24755809
